@@ -1,9 +1,5 @@
 package com.stepit.practice2;
-//import javax.xml.transform.Result;
-import java.util.List;
 import java.util.Scanner; // program uses class Scanner
-import java.util.stream.Stream;
-
 public class HW
 {
         // main method begins execution of Java application
