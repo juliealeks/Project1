@@ -58,7 +58,7 @@ public class Classwork {
 //        System.out.println(Math.sqrt(x));
 //        System.out.println(Math.abs(x));
 //        System.out.println(Math.random() * (b-a)) + a;
-        int day = 9;
+        int day = 3;
         switch (day) {
             case 1:
                 System.out.println("Monday");
